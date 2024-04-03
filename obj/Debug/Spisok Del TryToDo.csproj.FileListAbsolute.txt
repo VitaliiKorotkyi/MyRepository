@@ -1,0 +1,17 @@
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok Del TryToDo.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok_Del_TryToDo.Spisok.resources
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok_Del_TryToDo.Properties.Resources.resources
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok Del TryToDo.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok Del TryToDo.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\Spisok Del TryToDo.exe.config
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\Spisok Del TryToDo.exe
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\Spisok Del TryToDo.pdb
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok Del TryToDo.exe
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok Del TryToDo.pdb
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\DB\SpisokDB.mdf
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\DB\SpisokDB_log.ldf
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok D.A85ABC09.Up2Date
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok_Del_TryToDo.Forms.AddNewTask.resources
+C:\Users\vital\source\repos\Spisok Del TryToDo\Spisok Del TryToDo\obj\Debug\Spisok_Del_TryToDo.Forms.DeliteTask.resources
